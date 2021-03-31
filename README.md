@@ -8,4 +8,6 @@ Here I'll leave my works in machine learning or computational algorithms.
 <a href="https://nbviewer.jupyter.org/github/RomanSafronenkov/Algorithms/blob/master/files/Support%20Vector%20Machines.ipynb" target="_blank">Support Vector Machines</a>
 <br>
 <a href="https://nbviewer.jupyter.org/github/RomanSafronenkov/Algorithms/blob/master/files/Decision%20Trees.ipynb" target="_blank">Decision Trees</a>
+<br>
+<a href="https://nbviewer.jupyter.org/github/RomanSafronenkov/Algorithms/blob/master/files/Gradient%20boosting.ipynb" target="_blank">Decision Trees</a>
 <hr>
