@@ -16,5 +16,7 @@ Here I'll leave my works in machine learning or computational algorithms.
 <a href="https://nbviewer.jupyter.org/github/RomanSafronenkov/Algorithms/blob/master/files/KNN.ipynb" target="_blank">K-nearest neighbors</a>
 <br>
 <a href="https://nbviewer.jupyter.org/github/RomanSafronenkov/Algorithms/blob/master/files/Regularization%20for%20Linear%20Regression.ipynb" target="_blank">Regularization for Linear Regression</a>
+<br>
+<a href="https://nbviewer.jupyter.org/github/RomanSafronenkov/Algorithms/blob/master/files/Naive%20Bayes.ipynb" target="_blank">Naive Bayes</a>
 <hr>
 
