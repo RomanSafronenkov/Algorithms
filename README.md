@@ -20,5 +20,7 @@ Here I'll leave my works in machine learning or computational algorithms.
 <a href="https://nbviewer.jupyter.org/github/RomanSafronenkov/Algorithms/blob/master/files/Naive%20Bayes.ipynb" target="_blank">Naive Bayes</a>
 <br>
 <a href="https://nbviewer.jupyter.org/github/RomanSafronenkov/Algorithms/blob/master/files/OLS.ipynb" target="_blank">Ordinary Least Squares</a>
+<br>
+<a href="https://nbviewer.jupyter.org/github/RomanSafronenkov/Algorithms/blob/master/files/KMeans.ipynb" target="_blank">KMeans</a>
 <hr>
 
