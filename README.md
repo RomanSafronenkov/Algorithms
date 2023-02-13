@@ -25,6 +25,8 @@ Here I'll leave my works in machine learning or computational algorithms.
 <br>
 <a href="https://nbviewer.jupyter.org/github/RomanSafronenkov/Algorithms/blob/master/files/DBSCAN.ipynb" target="_blank">DBSCAN</a>
 <br>
-<a href="https://nbviewer.org/github/RomanSafronenkov/Algorithms/blob/master/files/Word2Vec%2BFastText%20Embeddings.ipynb" target="_blank">Word2Vec+FastText</a>
+<a href="https://nbviewer.org/github/RomanSafronenkov/Algorithms/blob/master/files/Word2Vec%20and%20FastText%20Embeddings.ipynb" target="_blank">Word2Vec+FastText</a>
+<br>
+<a href="https://nbviewer.org/github/RomanSafronenkov/Algorithms/blob/master/files/RNN.ipynb" target="_blank">RNN</a>
 <hr>
 
