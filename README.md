@@ -30,5 +30,7 @@ Here I'll leave my works in machine learning or computational algorithms.
 <a href="https://nbviewer.org/github/RomanSafronenkov/Algorithms/blob/master/files/RNN.ipynb" target="_blank">RNN</a>
 <br>
 <a href="https://nbviewer.org/github/RomanSafronenkov/Algorithms/blob/master/files/LSTM.ipynb" target="_blank">LSTM</a>
+<br>
+<a href="https://nbviewer.org/github/RomanSafronenkov/Algorithms/blob/master/files/CNN.ipynb" target="_blank">CNN Kaggle Digit Recognition</a>
 <hr>
 
