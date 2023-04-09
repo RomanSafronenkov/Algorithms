@@ -1,7 +1,7 @@
 # Algorithms
 Here I'll leave my works in machine learning or computational algorithms.
 
-![Alt Text]("https://github.com/RomanSafronenkov/Algorithms/tree/master/files/models/gan/mnist.gif")
+![Alt Text](https://github.com/RomanSafronenkov/Algorithms/blob/master/files/models/gan/mnist.gif)
 
 <hr>
 <a href="https://nbviewer.jupyter.org/github/RomanSafronenkov/Algorithms/blob/master/files/Gradient%20Descent.ipynb" target="_blank">Gradient descent</a>
