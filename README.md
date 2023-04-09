@@ -1,5 +1,8 @@
 # Algorithms
 Here I'll leave my works in machine learning or computational algorithms.
+
+![Alt Text]("https://github.com/RomanSafronenkov/Algorithms/tree/master/files/models/gan/mnist.gif")
+
 <hr>
 <a href="https://nbviewer.jupyter.org/github/RomanSafronenkov/Algorithms/blob/master/files/Gradient%20Descent.ipynb" target="_blank">Gradient descent</a>
 <br>
@@ -32,5 +35,7 @@ Here I'll leave my works in machine learning or computational algorithms.
 <a href="https://nbviewer.org/github/RomanSafronenkov/Algorithms/blob/master/files/LSTM.ipynb" target="_blank">LSTM</a>
 <br>
 <a href="https://nbviewer.org/github/RomanSafronenkov/Algorithms/blob/master/files/CNN.ipynb" target="_blank">CNN Kaggle Digit Recognition</a>
+<br>
+<a href="https://nbviewer.org/github/RomanSafronenkov/Algorithms/blob/master/files/MnistGan.ipynb" target="_blank">GAN Kaggle Digit Recognition</a>
 <hr>
 
