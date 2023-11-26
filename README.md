@@ -28,7 +28,7 @@ Here I'll leave my works in machine learning or computational algorithms.
 <br>
 <a href="https://nbviewer.org/github/RomanSafronenkov/Algorithms/blob/master/files/Word2Vec%20and%20FastText%20Embeddings.ipynb" target="_blank">Word2Vec+FastText</a>
 <br>
-<a href="https://nbviewer.org/github/RomanSafronenkov/Algorithms/blob/master/files/GloVe.ipynb" target="_blank">Autoencoder Kaggle Digit Recognition</a>
+<a href="https://nbviewer.org/github/RomanSafronenkov/Algorithms/blob/master/files/GloVe.ipynb" target="_blank">GloVe</a>
 <br>
 <a href="https://nbviewer.jupyter.org/github/RomanSafronenkov/Algorithms/blob/master/files/Neural%20Network.ipynb" target="_blank">Neural Network</a>
 <br>
