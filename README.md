@@ -43,5 +43,7 @@ Here I'll leave my works in machine learning or computational algorithms.
 <a href="https://nbviewer.org/github/RomanSafronenkov/Algorithms/blob/master/files/MnistGan.ipynb" target="_blank">GAN Kaggle Digit Recognition</a>
 <br>
 <a href="https://nbviewer.org/github/RomanSafronenkov/Algorithms/blob/master/files/Autoencoder.ipynb" target="_blank">Autoencoder Kaggle Digit Recognition</a>
+<br>
+<a href="https://nbviewer.org/github/RomanSafronenkov/Algorithms/blob/master/files/GPT.ipynb" target="_blank">GPT</a>
 <hr>
 
